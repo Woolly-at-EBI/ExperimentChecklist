@@ -1,4 +1,7 @@
 # ExperimentChecklist
+
+**N.B. This repo has been moved to <https://github.com/enasequence/ena-experiment-checklist/tree/main>** **THE WOOLY-at-EBI INSTANCE WILL THUS NOT BE UPDATED**
+
 The aim of this project is to generate JSON templates and JSON schemas for Experiment Checklists used for the ENA. 
 Each experiment type will have a specific a pair of JSON checklist template and JSON schema. 
 The data and code in this repository generate these.
